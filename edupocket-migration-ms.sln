@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{01865459-79A6-4531-9B8A-23B554C938FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{7759DD99-1E5B-45F2-A826-E3998E2F8CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{A15E9D55-908E-445B-9691-65BD627842DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01865459-79A6-4531-9B8A-23B554C938FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01865459-79A6-4531-9B8A-23B554C938FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01865459-79A6-4531-9B8A-23B554C938FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01865459-79A6-4531-9B8A-23B554C938FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7759DD99-1E5B-45F2-A826-E3998E2F8CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7759DD99-1E5B-45F2-A826-E3998E2F8CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7759DD99-1E5B-45F2-A826-E3998E2F8CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7759DD99-1E5B-45F2-A826-E3998E2F8CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15E9D55-908E-445B-9691-65BD627842DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15E9D55-908E-445B-9691-65BD627842DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15E9D55-908E-445B-9691-65BD627842DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15E9D55-908E-445B-9691-65BD627842DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB9C055-CF3E-4395-82E0-FD200D7061B8}
+	EndGlobalSection
+EndGlobal

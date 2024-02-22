@@ -1,0 +1,11 @@
+C:\shz\edupocket-migration-ms\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\shz\edupocket-migration-ms\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\shz\edupocket-migration-ms\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\shz\edupocket-migration-ms\Persistence\obj\Debug\net8.0\ref\Persistence.dll

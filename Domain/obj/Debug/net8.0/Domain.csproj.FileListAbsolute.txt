@@ -1,0 +1,11 @@
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\shz\edupocket-migration-ms\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\shz\edupocket-migration-ms\Domain\bin\Debug\net8.0\Domain.dll
+C:\shz\edupocket-migration-ms\Domain\bin\Debug\net8.0\Domain.pdb
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.dll
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\Domain.pdb
+C:\shz\edupocket-migration-ms\Domain\obj\Debug\net8.0\ref\Domain.dll
